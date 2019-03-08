@@ -1,4 +1,4 @@
-# tahw3-quadratic-equation-complex-starter
+# TA HW3 - Quadratic Equation (Complex) - 70 Points
 
 <div dir="rtl" align="right">
   

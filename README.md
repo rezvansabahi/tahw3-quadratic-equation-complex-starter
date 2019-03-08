@@ -131,6 +131,10 @@ double real = a.re - b.re;
   
 </div>
 
+<div dir="rtl" align="right">
+دقت داشته باشید که همچنان سازنده کلاس معادله درجه 2 سه عدد از جنس double دریافت می کند.  
+  
+</div>
 
 ```java
 

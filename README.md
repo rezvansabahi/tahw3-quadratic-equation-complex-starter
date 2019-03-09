@@ -1,5 +1,14 @@
 # TA HW3 - Quadratic Equation (Complex) - 70 Points
 
+[![Grader Status](YOUR_GRADER_BADGE)](YOUR_GRADER_BADGE)
+
+YOUR_GRADER_BADGE looks like this: https://kntu-grader.herokuapp.com/minimal?repo=<REPO_NAME>&id=<YOUR_STUDENT_ID>
+
+
+
+# Assignment discription
+
+
 <div dir="rtl" align="right">
   
 کلاس زیر مدل سازی اعداد مختلط است. دو متد که در آنها کامنت TODO وجود دارد را ابتدا تکمیل کنید. یعنی دو متد times و plus.
